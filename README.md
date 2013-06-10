@@ -18,22 +18,22 @@ Instrunctions:
 Commands
 You can choose any of this commands, or add other modifing the script.
 
-1. "Launch"/"Open" + appname
-2. "What apps are running?"
-3. "Shut Down"
-4. "Go to Sleep"/"Sleep"
-5. "Restart my mac"/"Restart"/"Reboot"
-6. "Empty trash"
-7. "turn Wifi ON"/ "turn Wifi OFF" / "Toggle Wifi"
-8. "Toggle Bluetooth"
-9. "Play Music"
-10."Pause"
-11."Stop music"
-12."Previous Song"/"Skip Song"
-13."What music is playing?"
-14."Play artist + artistname"  [not working yet]
-15."Play album + albumname"    [not working yet]
-16."Play song + songname"      [not working yet]
+1.  "Launch"/"Open" + appname
+2.  "What apps are running?"
+3.  "Shut Down"
+4.  "Go to Sleep"/"Sleep"
+5.  "Restart my mac"/"Restart"/"Reboot"
+6.  "Empty trash"
+7.  "turn Wifi ON"/ "turn Wifi OFF" / "Toggle Wifi"
+8.  "Toggle Bluetooth"
+9.  "Play Music"
+10. "Pause"
+11. "Stop music"
+12. "Previous Song"/"Skip Song"
+13. "What music is playing?"
+14. "Play artist + artistname"  [not working yet]
+15. "Play album + albumname"    [not working yet]
+16. "Play song + songname"      [not working yet]
 
 
 to change localization just open the main.scpt file and modify it
